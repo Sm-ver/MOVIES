@@ -73,21 +73,6 @@ Welcome to the **SQL Movie Database Queries** repository! This project contains 
 
 ---
 
-### 🚀 How to Use
-
-1. Import your sample database schema with the required tables (`MOVIES`, `FINANCIALS`, `ACTORS`, etc.)
-2. Use any SQL editor like **MySQL Workbench**, **pgAdmin**, **DBeaver**, or **SQLiteStudio**.
-3. Run queries directly or tweak them based on your schema and data.
-
----
-
-### 📌 Requirements
-
-* SQL engine: MySQL / PostgreSQL / SQLite
-* Basic understanding of database schemas
-
----
-
 ### 📚 Useful Concepts Practiced
 
 * Filtering with `WHERE`, `LIKE`, `IN`, `BETWEEN`
@@ -98,16 +83,4 @@ Welcome to the **SQL Movie Database Queries** repository! This project contains 
 
 ---
 
-### 🙌 Contribution
 
-If you have suggestions, improvements, or want to add more complex queries (e.g., window functions, triggers, procedures), feel free to fork and raise a PR!
-
----
-
-### 📧 Contact
-
-**Created by**: *Smriti Verma*
-📍 Location: India
-📬 Email: [smritiverma504@gmail.com]
-
--
